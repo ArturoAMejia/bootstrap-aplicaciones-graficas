@@ -1,0 +1,16 @@
+.flex{
+  display: flex;
+  flex-direction: column;
+}
+
+
+aside{
+  background: #b1711d;
+  height: 500px;
+}
+
+.navbar{
+  background: rgb(96, 96, 218);
+  color: white;
+  padding: 16px;
+}
